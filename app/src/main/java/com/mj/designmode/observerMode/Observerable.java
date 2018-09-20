@@ -1,4 +1,4 @@
-package com.mj.designmode;
+package com.mj.designmode.observerMode;
 
 
 /**

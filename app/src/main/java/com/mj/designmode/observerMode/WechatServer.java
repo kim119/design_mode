@@ -1,4 +1,4 @@
-package com.mj.designmode;
+package com.mj.designmode.observerMode;
 
 import java.util.ArrayList;
 import java.util.List;
